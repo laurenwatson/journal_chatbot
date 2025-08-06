@@ -1,3 +1,5 @@
+from nanoGPT import *
+
 def respond(prompt):
     return "Okay!"
 
